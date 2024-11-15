@@ -1,10 +1,10 @@
 
-# Expense Tracker
+# Personal Expense Tracker
 
 
 ## Description
 
-This is Expense Tracker Web App to manage all your Daily Expenses.
+This is Personal Expense Tracker to manage all your Daily Expenses.
 
 You can add and delete Expenses easily with different categories.
 
@@ -57,8 +57,6 @@ Start Server using node or nodemon
   or nodemon app.js
 ```
 
-
-Please Use Tailwind CSS for styling components
 
 ## Environment Variables
 
